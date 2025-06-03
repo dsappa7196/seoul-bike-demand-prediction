@@ -79,10 +79,10 @@ This project addresses that challenge by building a machine learning pipeline to
 
 | File Name                      | Description                                      |
 |-------------------------------|--------------------------------------------------|
-| [SeoulBike_Model.ipynb](./SeoulBike_Model.ipynb) | Full Python notebook with model pipeline         |
-| [SeoulBike_Report.pdf](./SeoulBike_Report.pdf)   | Final detailed report                             |
-| [SeoulBike_Deck.pptx](./SeoulBike_Deck.pptx)     | Slide deck for presentation                      |
-| [SeoulBike_Data.csv](./SeoulBike_Data.csv)       | Cleaned dataset                                  |
+| [SeoulBike_Model.ipynb](https://github.com/dsappa7196/seoul-bike-demand-prediction/blob/main/DataMining_SeoulBikeSharingDemand_Project.ipynb) | Full Python notebook with model pipeline         |
+| [SeoulBike_Report.pdf](https://github.com/dsappa7196/seoul-bike-demand-prediction/blob/main/DS861_SeoulBikeSharingDemandPrediction_Sappa.pdf)   | Final detailed report                             |
+| [SeoulBike_Deck.pptx](https://github.com/dsappa7196/seoul-bike-demand-prediction/blob/main/DS861_SeoulBikeSharingDemandPrediction_Sappa.pptx)     | Slide deck for presentation                      |
+| [SeoulBike_Data.xlsx]([./SeoulBike_Data.csv](https://github.com/dsappa7196/seoul-bike-demand-prediction/blob/main/SeoulBikeData.xlsx))       | Cleaned dataset                                  |
 
 ---
 
